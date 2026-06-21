@@ -2,7 +2,7 @@
 
 # Avolantis Laboratories
 
-### Software systems deserve better diagnostics.
+### Independent software architecture and DevOps consulting.
 
 ![Focus](https://img.shields.io/badge/focus-architecture%20%7C%20audits%20%7C%20devops-blue)
 ![Based in](https://img.shields.io/badge/based%20in-Hungary-red)
@@ -11,9 +11,10 @@
 
 **Architecture · Audits · Backend Engineering · CI/CD · DevOps · Automation**
 
-[Website](https://avolantis.io) · [Email](mailto:helo@avolantis.io) ·
+[Website](https://avolantis.io) · [Email](mailto:hello@avolantis.io) ·
 [LinkedIn](https://www.linkedin.com/company/avolantislabs) ·
 [X](https://x.com/avolantislabs) ·
+[GitHub](https://github.com/avolantis) ·
 [Facebook](https://www.facebook.com/avolantislabs)
 
 </div>
@@ -22,11 +23,13 @@
 
 ## Hey, we are Avolantis Labs 👋
 
-**Avolantis Laboratories** is a small software engineering lab from Hungary.
+**Avolantis Laboratories**, also known as **Avolantis Labs**, is a small
+software engineering lab from Hungary.
 
 We inspect, question, untangle, and improve software systems — mostly around
 architecture, backend engineering, CI/CD, DevOps, automation, and technical
-delivery.
+delivery. We provide focused technical consulting for teams that need stronger
+architecture, cleaner delivery pipelines, and confident engineering decisions.
 
 We like sharp tools, boring production, clear decisions, and systems that are
 actually pleasant to maintain.
@@ -53,12 +56,11 @@ If any of these feel uncomfortably familiar, we can probably help. 🙂
 
 | Area | How we help |
 | --- | --- |
-| Architecture reviews | Find weak boundaries, scaling risks, and accidental complexity |
-| Codebase audits | Identify technical debt, maintainability issues, and risky patterns |
-| CI/CD consulting | Improve pipelines, release flow, feedback loops, and delivery confidence |
-| DevOps reviews | Look at infrastructure, automation, environments, and operational friction |
-| Backend guidance | Support APIs, services, internal tools, and integrations |
-| Technical advisory | Provide senior engineering judgment without full-time overhead |
+| Architecture consulting | Find weak boundaries, scaling risks, and accidental complexity |
+| Codebase & system audits | Identify technical debt, maintainability issues, and risky patterns |
+| DevOps & CI/CD review | Improve pipelines, release flow, feedback loops, and delivery confidence |
+| Backend engineering advisory | Support APIs, services, internal tools, and integrations |
+| Technical leadership | Provide senior engineering judgment without full-time overhead |
 
 ---
 
@@ -70,7 +72,7 @@ If any of these feel uncomfortably familiar, we can probably help. 🙂
 
 ```text
 TypeScript · Node.js · .NET · C# · Java · Spring Boot
-CI/CD · DevOps · NetOps · APIs · backend systems · automation
+CI/CD · DevOps · APIs · backend systems · automation
 developer tooling · infrastructure workflows
 ```
 
@@ -126,5 +128,5 @@ senior technical judgment.
 If your system has sharp edges, we would love to take a look.
 
 **Website:** https://avolantis.io
-**Email:** [helo@avolantis.io](mailto:helo@avolantis.io)
+**Email:** [hello@avolantis.io](mailto:hello@avolantis.io)
 **Social:** `@avolantislabs`
