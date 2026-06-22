@@ -2,14 +2,14 @@
 
 # Avolantis Laboratories
 
-### Independent software architecture and DevOps consulting.
+### Independent architecture, authentication, and DevOps consulting.
 
-![Focus](https://img.shields.io/badge/focus-architecture%20%7C%20audits%20%7C%20devops-blue)
+![Focus](https://img.shields.io/badge/focus-architecture%20%7C%20auth%20%7C%20devops-blue)
 ![Based in](https://img.shields.io/badge/based%20in-Hungary-red)
 ![Style](https://img.shields.io/badge/style-pragmatic%20engineering-brightgreen)
 ![Status](https://img.shields.io/badge/status-founder--led-black)
 
-**Architecture · Audits · Backend Engineering · CI/CD · DevOps · Automation**
+**Authentication Architecture · OAuth · OpenID Connect · Architecture · Audits · Backend Engineering · CI/CD · DevOps**
 
 [Website](https://avolantis.io) · [Email](mailto:hello@avolantis.io) ·
 [LinkedIn](https://www.linkedin.com/company/avolantislabs) ·
@@ -21,34 +21,35 @@
 
 ---
 
-## Hey, we are Avolantis Labs 👋
+## Avolantis Labs
 
 **Avolantis Laboratories**, also known as **Avolantis Labs**, is a small
-software engineering lab from Hungary.
+founder-led software engineering lab from Hungary.
 
 We inspect, question, untangle, and improve software systems — mostly around
-architecture, backend engineering, CI/CD, DevOps, automation, and technical
-delivery. We provide focused technical consulting for teams that need stronger
-architecture, cleaner delivery pipelines, and confident engineering decisions.
+architecture, authentication, backend engineering, CI/CD, DevOps, automation,
+and technical delivery. We provide focused technical consulting for teams that
+need stronger architecture, safer identity flows, cleaner delivery pipelines,
+and confident engineering decisions.
 
 We like sharp tools, boring production, clear decisions, and systems that are
 actually pleasant to maintain.
 
 ---
 
-## Questions we help answer
+## Problems we help clarify
 
-> Why is shipping slow?
+> Is our authentication design safe to extend?
 
-> Why is this codebase scary?
+> Are token and client boundaries correct?
 
-> Can this architecture scale?
+> Why are deployments fragile?
 
-> What breaks first?
+> Where is architecture drift creating risk?
 
-> Are we building on solid ground?
+> Which codebase risks will slow the next roadmap?
 
-If any of these feel uncomfortably familiar, we can probably help. 🙂
+If any of these feel familiar, we can probably help.
 
 ---
 
@@ -56,6 +57,7 @@ If any of these feel uncomfortably familiar, we can probably help. 🙂
 
 | Area | How we help |
 | --- | --- |
+| Authentication architecture | Review OAuth, OpenID Connect, token flows, client boundaries, and authorization design |
 | Architecture consulting | Find weak boundaries, scaling risks, and accidental complexity |
 | Codebase & system audits | Identify technical debt, maintainability issues, and risky patterns |
 | DevOps & CI/CD review | Improve pipelines, release flow, feedback loops, and delivery confidence |
@@ -71,7 +73,8 @@ If any of these feel uncomfortably familiar, we can probably help. 🙂
 </p>
 
 ```text
-TypeScript · Node.js · .NET · C# · Java · Spring Boot
+OAuth · OpenID Connect · authentication architecture
+.NET · C# · Java/Spring Boot · TypeScript · Node.js
 CI/CD · DevOps · APIs · backend systems · automation
 developer tooling · infrastructure workflows
 ```
@@ -113,7 +116,7 @@ developer tooling · infrastructure workflows
 
 ---
 
-## Tiny lore drop
+## Background
 
 Avolantis started as a university-era engineering crew building hackathon and
 early software projects.
@@ -125,7 +128,8 @@ senior technical judgment.
 
 ## Let’s talk
 
-If your system has sharp edges, we would love to take a look.
+If your team needs an independent technical review, we would be glad to take a
+look.
 
 **Website:** https://avolantis.io
 **Email:** [hello@avolantis.io](mailto:hello@avolantis.io)
